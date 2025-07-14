@@ -50,7 +50,7 @@ I’m a curious and impact-driven developer who loves turning complex problems i
 ## 🔗 Let's Connect!
 Feel free to reach out to me at :
 
-* **Email:** narasimhan11102@gmail.com 
+* **Email:**  
 * **LinkedIn:** [Lakshminarasimhan](https://www.linkedin.com/in/lakshminarasimhan-p-s)
 
 Thanks for visiting my GitHub page! 😄
