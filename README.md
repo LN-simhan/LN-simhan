@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshminarasimhan
 
-I’m a curious and impact-driven developer who loves turning complex problems into elegant solutions. My expertise lies at the intersection of software development, machine learning, and cloud computing, always with an eye towards innovation and efficiency.  
+I’m a curious and impact driven developer who loves turning complex problems into elegant solutions. My expertise lies at the intersection of software development, machine learning, and cloud computing, always with an eye towards innovation and efficiency.  
 
 ## 🚀 My Latest Adventures
 
@@ -47,7 +47,7 @@ I’m a curious and impact-driven developer who loves turning complex problems i
 * AIR 4, National Entrepreneurship Challenge, E-Cell IIT Bombay
 
 
-## 🔗 Let's Connect!
+## 🔗 Happy to Connect!
 Feel free to reach out to me at :
 
 * **Email:**  connect.lakshminarasimhan@gmail.com
